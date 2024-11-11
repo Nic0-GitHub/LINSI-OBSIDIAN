@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "81fd47a49d339838",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee878a24718524d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d40f6e2c0e6059fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiz/Nivel Intermedio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nivel Intermedio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07aeb01920295264",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ec6935a9320266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4b386898b522f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "23ddb629b50750fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sincr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "359c1d10e527c724",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5086555480957
+  },
+  "right": {
+    "id": "6f0c912de68516c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5109348f946a010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d706659aa0751d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quiz/Nivel Intermedio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Nivel Intermedio"
+            }
+          },
+          {
+            "id": "69844e729862670a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quiz/Nivel Inicial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Nivel Inicial"
+            }
+          },
+          {
+            "id": "5198ee501d9fe3f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8e91402af59aa4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quiz/Nivel Inicial.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Nivel Inicial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d40f6e2c0e6059fa",
+  "lastOpenFiles": [
+    "Quiz/Nivel Avanzado.md",
+    "Quiz/Nivel Intermedio.md",
+    "Quiz/Nivel Inicial.md",
+    "Sin título.md",
+    "Bienvenido.md",
+    "Sin título 4.md",
+    "Sin título 1.md",
+    "Sin título 3.md",
+    "Sin título 2.md",
+    "Quiz"
+  ]
+}
